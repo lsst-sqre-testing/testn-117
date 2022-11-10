@@ -14,7 +14,7 @@ Test technote
 TESTN-117
 =========
 
-This is a test.
+This is a test for CADC.
 
 **Links:**
 
